@@ -108,25 +108,7 @@ I specialize in:
 
 - 📌 Practicing **Data Structures & Algorithms**
 - 📂 Repository: [DSA](https://github.com/nuralamsiddikey/DSA)
-- Platforms: LeetCode, HackerRank
-
----
-
-## 📌 Featured Projects
-
-| Project | Description | Tech |
-|-------|-------------|------|
-| **DSA Repository** | Solved problems with clean structure | JS |
-| **Warehouse Management System** | SaaS-based inventory & ERP | Node, React |
-| **Microservices Booking System** | Scalable async services | NestJS, RabbitMQ |
-
----
-
-## 📈 GitHub Goals
-
-- Daily DSA practice
-- Clean, production-grade backend projects
-- Open-source contributions
+- Platforms: LeetCode
 
 ---
 
