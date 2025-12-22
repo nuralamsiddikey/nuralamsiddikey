@@ -1,16 +1,133 @@
-## Hi there 👋
+# 👋 Hi, I'm Md. Nur Alam Siddikey
 
-<!--
-**nuralamsiddikey/nuralamsiddikey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Backend / Full Stack Software Engineer**  
+💼 Currently working at **Lyxa**  
+🌍 Dhaka, Bangladesh  
+📧 nurcse253@gmail.com  
 
-Here are some ideas to get you started:
+[LinkedIn](https://linkedin.com/in/nuralamsiddikey) •
+[GitHub](https://github.com/nuralamsiddikey)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+
+I am a **Backend-focused Software Engineer** with **3+ years of professional experience** building **scalable SaaS products, microservices, and high-performance APIs**.
+
+I specialize in:
+- Designing clean backend architectures
+- Building microservices with async communication
+- Optimizing databases & system performance
+- Delivering production-ready features in fast-paced teams
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+- JavaScript, TypeScript
+
+**Backend**
+- Node.js, Express.js, NestJS
+- REST APIs, JWT Authentication
+- Microservices Architecture
+- BullMQ, RabbitMQ
+
+**Frontend**
+- React.js, Next.js
+- Redux Toolkit, React Query
+- HTML5, CSS3, Tailwind
+
+**Databases**
+- MongoDB, MySQL
+- TypeORM, Sequelize
+
+**DevOps & Tools**
+- Docker, Git, GitHub
+- Agile / Scrum
+
+**Core CS**
+- Data Structures & Algorithms
+- OOP
+- System Design
+
+---
+
+## 💼 Professional Experience
+
+### 🏢 Lyxa — Software Engineer (Backend)
+📅 *May 2025 – Present*
+
+- Developed and integrated **booking microservices** (cleaning, salon, laundry)
+- Implemented **BullMQ** for background job processing
+- Enabled **async inter-service communication**, improving responsiveness
+- Designed **GeoJSON-based dynamic zoning** in MongoDB using map UI
+- Built secure **authentication & role-based access control**
+
+---
+
+### 🏢 Banbox — Full Stack Software Developer
+📅 *Apr 2024 – Apr 2025*
+
+- Built **SaaS products** (ERP, HRM, Inventory, Ecommerce)
+- Focused on **Warehouse Management System**
+- Designed REST APIs handling **10,000+ daily requests**
+- Optimized MySQL queries → **45% faster response time**
+- Created **30+ reusable React components**
+- Integrated SMS & SendGrid APIs rapidly
+
+---
+
+### 🏢 Rosetech Solutions Ltd — Associate Software Developer
+📅 *Jun 2023 – Feb 2024*
+
+- Led **95% of HRM core module development**
+- Designed **task management system architecture**
+- Built secure APIs with **JWT authentication**
+- Implemented encryption & backend–frontend integration
+
+---
+
+### 🏢 Mr. Healer — Software Engineer Intern
+📅 *Jan 2023 – May 2023*
+
+- Built patient & prescription management modules
+- Reduced admin workload by **50%**
+- Integrated **SendGrid** and **CSV/Excel export**
+
+---
+
+## 🏆 Awards & Achievements
+
+- 🥇 **Rising Star Award** — Lyxa (2025)
+- 🏅 **Contest Participation Award** — BUBT (2020)
+
+---
+
+## 📊 DSA & Problem Solving
+
+- 📌 Practicing **Data Structures & Algorithms**
+- 📂 Repository: [DSA](https://github.com/nuralamsiddikey/DSA)
+- Platforms: LeetCode, HackerRank
+
+---
+
+## 📌 Featured Projects
+
+| Project | Description | Tech |
+|-------|-------------|------|
+| **DSA Repository** | Solved problems with clean structure | JS |
+| **Warehouse Management System** | SaaS-based inventory & ERP | Node, React |
+| **Microservices Booking System** | Scalable async services | NestJS, RabbitMQ |
+
+---
+
+## 📈 GitHub Goals
+
+- Daily DSA practice
+- Clean, production-grade backend projects
+- Open-source contributions
+
+---
+
+⭐ *Feel free to explore my repositories and connect with me!*
