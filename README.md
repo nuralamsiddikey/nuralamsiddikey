@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Md. Nur Alam Siddikey
 
-🚀 **Backend / Full Stack Software Engineer**  
-💼 Currently working at **Lyxa**  
+🚀 **Backend Software Engineer**  
+💼 Currently working at **Lyxa.ai**  
 🌍 Dhaka, Bangladesh  
 📧 nurcse253@gmail.com  
 
