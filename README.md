@@ -110,7 +110,7 @@ I specialize in:
   <img src="https://institute.careerguide.com/wp-content/uploads/2023/08/DSA-full-forms.png" alt="Data Structures and Algorithms" width="800"/>
 </p>
 
-- 📌 Practicing **Data Structures & Algorithms**
+-  Practicing **Data Structures & Algorithms**
 - 💻 Solving problems on **LeetCode**
 - 📂 Repository: [DSA](https://github.com/nuralamsiddikey/DSA)
 
@@ -119,9 +119,8 @@ I specialize in:
 </p>
 
 - 💻 Solving problems on **LeetCode**
-- 📂 Repository: [LeetCode](https://github.com/nuralamsiddikey/LeetCode)
+- 📂 Repository: [LeetCode](https://res.cloudinary.com/algro/image/upload/v1771347364/production/post/69949d9658663123d8be6eb8/cover.jpg)
 
 
 ---
-
-⭐ *Feel free to explore my repositories and connect with me!*
+ *Feel free to explore my repositories and connect with me!*
