@@ -114,6 +114,13 @@ I specialize in:
 - 💻 Solving problems on **LeetCode**
 - 📂 Repository: [DSA](https://github.com/nuralamsiddikey/DSA)
 
+<p align="center">
+  <img src="https://miro.medium.com/v2/1*kBWo_GWrG58h28kDHwnBfg.png" alt="Data Structures and Algorithms" width="800"/>
+</p>
+
+- 💻 Solving problems on **LeetCode**
+- 📂 Repository: [LeetCode](https://github.com/nuralamsiddikey/LeetCode)
+
 
 ---
 
