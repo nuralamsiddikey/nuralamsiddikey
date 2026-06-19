@@ -31,12 +31,8 @@ I specialize in:
 - Node.js, Express.js, NestJS
 - REST APIs, JWT Authentication
 - Microservices Architecture
+- Event Driven Architecture
 - BullMQ, RabbitMQ
-
-**Frontend**
-- React.js, Next.js
-- Redux Toolkit, React Query
-- HTML5, CSS3, Tailwind
 
 **Databases**
 - MongoDB, MySQL
@@ -100,6 +96,7 @@ I specialize in:
 ## 🏆 Awards & Achievements
 
 - 🥇 **Rising Star Award** — Lyxa (2025)
+- 🥇 **Continuous Improvement Award** — Lyxa (2026)
 - 🏅 **Contest Participation Award** — BUBT (2020)
 
 ---
