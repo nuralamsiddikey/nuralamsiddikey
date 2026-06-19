@@ -107,7 +107,7 @@ I specialize in:
 ## 📊 DSA & Problem Solving
 
 <p align="center">
-  <img src="https://www.bluewinston.com/why-dsa-still-learning-without-impressions/" alt="Data Structures and Algorithms" width="800"/>
+  <img src="https://institute.careerguide.com/wp-content/uploads/2023/08/DSA-full-forms.png" alt="Data Structures and Algorithms" width="800"/>
 </p>
 
 - 📌 Practicing **Data Structures & Algorithms**
