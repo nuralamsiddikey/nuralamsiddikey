@@ -106,9 +106,16 @@ I specialize in:
 
 ## 📊 DSA & Problem Solving
 
+<p align="center">
+  <img src="./assets/dsa-banner.png" alt="Data Structures and Algorithms" width="800"/>
+</p>
+
 - 📌 Practicing **Data Structures & Algorithms**
+- 🧩 Topics: Arrays, Strings, Linked Lists, Trees, Graphs, Dynamic Programming, Recursion, Greedy, Backtracking
+- 💻 Solving problems regularly on **LeetCode**
 - 📂 Repository: [DSA](https://github.com/nuralamsiddikey/DSA)
-- Platforms: LeetCode
+- 🎯 Goal: Strengthen problem-solving skills for product-based and Big Tech companies
+
 
 ---
 
